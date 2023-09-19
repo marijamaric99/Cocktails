@@ -3,6 +3,12 @@
 
 **Cocktails** is your ultimate mixology companion. Whether you're a seasoned bartender or a home mixologist, our app has all you need to craft the perfect cocktail.
 
+## Website
+
+Check out our website at: [Cocktails Practice Project](https://cocktails-practice-project.netlify.app/)
+
+Here, you can try out our cocktails and explore all the features of our application live.
+
 ## About
 
 **Cocktails** is a web application designed to elevate your cocktail experience. Explore an extensive collection of cocktails, discover new favorites, and bring out your inner mixologist.
